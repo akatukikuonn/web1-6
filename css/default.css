@@ -1,26 +1,30 @@
-
 body{
-  background-color:"#fff3b8";}
+  background-color:"#fff3b8";
+}
 
 #main{
   width: 960px;
   padding: 40px 80px;
   border: green 1px solid;
-  background-color:white;}
+  background-color:white;
+}
 
 .photo{
   float:left;
-  margin-right:30px;}
+  margin-right:30px;
+}
 
 .explanation{
-float:left;
+  float:left;
   width: 468px;
 }
 
 dt
-{clear:left;
+{
+  clear:left;
   float:left;
-  font-weight: bold;}
+  font-weight: bold;
+}
 
 .btn{
   -webkit-appearance: none;
