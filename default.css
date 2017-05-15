@@ -13,3 +13,13 @@ body{
 .btn{
   -webkit-appearance: none;
   margin:5px}
+
+.btn-ss{
+  background-color:silver;
+  color:white;
+}
+
+.btn-res{
+  background-color:silver;
+  color:white;
+}
