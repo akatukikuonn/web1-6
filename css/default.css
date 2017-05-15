@@ -4,6 +4,7 @@ body{
   background-color:"#fff3b8";}
 
 #main{
+  width 960px;
   padding: 40px 80px;
   border: green 1px solid;
   background-color:white;}
