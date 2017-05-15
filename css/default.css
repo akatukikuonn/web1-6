@@ -10,6 +10,16 @@ body{
   float:left;
   margin-right:30px;}
 
+.explanation{
+float:left;
+  width: 468px;
+}
+
+dt
+{clear:left;
+  float:left;
+  font-weight: bold;}
+
 .btn{
   -webkit-appearance: none;
   margin:5px}
